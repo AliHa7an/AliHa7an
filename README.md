@@ -8,7 +8,7 @@
 
 I am a highly skilled and versatile **Full Stack Developer** with a strong programming background, creativity, and a problem-solving mindset. My experience includes delivering high-quality solutions to complex business challenges and leading teams effectively. Specializing in building scalable and secure applications, I excel in dynamic environments and communicate well, ensuring successful project outcomes.
 
-- 📧 **Email:** aliha77a9@gmail.com
+- 📧 **Email:** alihexan@gmail.com
 - 📱 **Phone:** +92 311 542 7994
 
 ## 🛠️ Tech Stack
@@ -31,6 +31,10 @@ I am a highly skilled and versatile **Full Stack Developer** with a strong progr
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![CosmosDB](https://img.shields.io/badge/Cosmos_DB-2CA5E0?style=for-the-badge&logo=cosmos-db&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/Amazon_DynamoDB-4053D6?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Cloud & DevOps
@@ -42,8 +46,17 @@ I am a highly skilled and versatile **Full Stack Developer** with a strong progr
 ### AI & Tools
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Vapi](https://img.shields.io/badge/Vapi-AI_Voice-FF6B6B?style=for-the-badge)
-![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![AI_Chatbots](https://img.shields.io/badge/AI_Chatbots-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
+![AI_Voice_Bots](https://img.shields.io/badge/AI_Voice_Bots-FF6B6B?style=for-the-badge&logo=voice&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Google_APIs](https://img.shields.io/badge/Google_APIs-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Facebook_APIs](https://img.shields.io/badge/Facebook_APIs-1877F2?style=for-the-badge&logo=facebook&logoColor=white)
+![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+![In_App_Purchases](https://img.shields.io/badge/In_App_Purchases-000000?style=for-the-badge&logo=app-store&logoColor=white)
 
 ## 💼 Professional Experience
 
@@ -130,17 +143,25 @@ Business management and operations solution designed to streamline business proc
 **ATechSight**
 A platform integrating social media and payment functionalities for seamless user interactions. Social media automation platform featuring Facebook integration and comprehensive automation capabilities, built with Node.js, Prisma, and React.js.
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliha77a9&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliha77a9&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
-## 🔥 Streak Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aliha77a9&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  
+  ### 📈 **Contribution Stats**
+  <img src="https://github-readme-stats.vercel.app/api?username=alihexan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=B1BAC4&icon_color=58A6FF&border_radius=15&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  
+  ### 💻 **Top Languages**
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihexan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=B1BAC4&border_radius=15&custom_title=Most%20Used%20Languages&langs_count=8" alt="Top Languages" />
+  
+  ### 🔥 **Contribution Streak**
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihexan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF&dates=58A6FF" alt="GitHub Streak" />
+  
+  ### 📊 **Activity Graph**
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihexan&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF" alt="Activity Graph" />
+  
+  ### 🏆 **Trophy Collection**
+  <img src="https://github-profile-trophy.vercel.app/?username=alihexan&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy Collection" />
+  
 </div>
 
 ## 🤝 Let's Connect!
@@ -148,7 +169,7 @@ A platform integrating social media and payment functionalities for seamless use
 I'm always open to discussing new opportunities, interesting projects, or just having a chat about technology!
 
 <div align="center">
-  <a href="mailto:aliha77a9@gmail.com">
+  <a href="mailto:alihexan@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
