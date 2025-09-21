@@ -123,7 +123,7 @@ A fishing log and analytics app for anglers, enabling one-tap catch logging tied
 ### 🛡️ **Seek My Service Admin** - [admin-dta.seekmyservice.com](https://admin-dta.seekmyservice.com/login)
 An administrative interface built on the Department of Defense's Defense Travel System (DTS) using the DTA Maintenance Tool (DTA/ROA modules). Used to grant or revoke access permissions, manage profiles, view trip and invoice data, and maintain user roles across traveler organizations.
 
-### 📈 **Influence Network** - [influence.network](https://influence.network/)
+### 📈 **Influence Network** - [[influence.network](https://influence.network/)](https://influencenetwork.com/)
 **Edgelabs Company**
 Web platform for influencer management and marketing. Collaborated with development team to maintain and modernize the application with updated technology stack using React.js, NestJS, Chrome extensions, Next.js, and PostgreSQL database, deployed using AWS Elastic Beanstalk, EC2 instances, and serverless architecture.
 
@@ -131,17 +131,13 @@ Web platform for influencer management and marketing. Collaborated with developm
 **BitSol Technologies**
 Healthcare communication and telehealth platform designed to improve patient experience and staff engagement. Revolutionizes the on-demand model of shifts and calls from mandatory burden to welcomed choice, enabling patients to receive excellent care from engaged healthcare professionals.
 
-### 🏭 **IPGen** - [app.ipgen.io](http://app.ipgen.io/)
+### 🏭 **IPGen** - [[app.ipgen.io](https://app.ipgen.io/)](https://ipgen.io/)
 **BitSol Technologies**
 Platform for intellectual property and innovation management. Comprehensive patent lifecycle management platform with social networking and collaboration features, utilizing state-of-the-art technologies to streamline and automate patent processes.
 
-### 💼 **Bosss** - [bosss.com](https://bosss.com)
+### 💼 **Bosss** - [[bosss.com](https://bosss.com)](https://www.bosss.sch.ng/)
 **BitSol Technologies**
 Business management and operations solution designed to streamline business processes and enhance operational efficiency.
-
-### 📱 **Spectacle** - [app.getspectacle.com](https://app.getspectacle.com/)
-**ATechSight**
-A platform integrating social media and payment functionalities for seamless user interactions. Social media automation platform featuring Facebook integration and comprehensive automation capabilities, built with Node.js, Prisma, and React.js.
 
 ## 📊 GitHub Analytics
 
