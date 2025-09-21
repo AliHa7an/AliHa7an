@@ -148,19 +148,19 @@ A platform integrating social media and payment functionalities for seamless use
 <div align="center">
   
   ### 📈 **Contribution Stats**
-  <img src="https://github-readme-stats.vercel.app/api?username=alihexan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=B1BAC4&icon_color=58A6FF&border_radius=15&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliHa7an&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=B1BAC4&icon_color=58A6FF&border_radius=15&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
   ### 💻 **Top Languages**
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alihexan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=B1BAC4&border_radius=15&custom_title=Most%20Used%20Languages&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHa7an&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=B1BAC4&border_radius=15&custom_title=Most%20Used%20Languages&langs_count=8" alt="Top Languages" />
   
   ### 🔥 **Contribution Streak**
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alihexan&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF&dates=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHa7an&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=58A6FF&currStreakNum=58A6FF&sideLabels=58A6FF&dates=58A6FF" alt="GitHub Streak" />
   
   ### 📊 **Activity Graph**
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alihexan&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHa7an&theme=tokyonight&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=58A6FF&area=true&area_color=58A6FF&hide_title=false&custom_title=GitHub%20Activity%20Graph" alt="Activity Graph" />
   
   ### 🏆 **Trophy Collection**
-  <img src="https://github-profile-trophy.vercel.app/?username=alihexan&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy Collection" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AliHa7an&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="Trophy Collection" />
   
 </div>
 
