@@ -147,8 +147,6 @@ A platform integrating social media and payment functionalities for seamless use
 
 <div align="center">
   
-  ### 📈 **Contribution Stats**
-  <img src="https://github-readme-stats.vercel.app/api?username=AliHa7an&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=B1BAC4&icon_color=58A6FF&border_radius=15&custom_title=GitHub%20Statistics&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   
   ### 💻 **Top Languages**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHa7an&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=B1BAC4&border_radius=15&custom_title=Most%20Used%20Languages&langs_count=8" alt="Top Languages" />
